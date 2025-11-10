@@ -43,6 +43,7 @@ Add screenshots to the repo and reference them here. Create a folder at `assets/
 ```markdown
 ![Home screen](/screen.png)
 ```
+<img src="./screen.png" alt="home" width="300"/>
 
 Note: To include screenshots in the built Flutter app, add the path to `pubspec.yaml` under `flutter.assets:` and run `flutter pub get`.
 
